@@ -10,9 +10,9 @@ import isComplete from './modules/state.js';
 
 // Font Awesome 5 (Free)
 import '@fortawesome/fontawesome-free/js/fontawesome.js';
-import '@fortawesome/fontawesome-free/js/solid.js'; // https://fontawesome.com/icons?d=gallery&s=solid&m=free
-import '@fortawesome/fontawesome-free/js/regular.js'; // https://fontawesome.com/icons?d=gallery&s=regular&m=free
-import '@fortawesome/fontawesome-free/js/brands.js'; // https://fontawesome.com/icons?d=gallery&s=brands&m=free
+import '@fortawesome/fontawesome-free/js/solid.js';
+import '@fortawesome/fontawesome-free/js/regular.js';
+import '@fortawesome/fontawesome-free/js/brands.js';
 
 const container = document.getElementById('ctn-task-list');
 const descInput = document.getElementById('input-txt');
